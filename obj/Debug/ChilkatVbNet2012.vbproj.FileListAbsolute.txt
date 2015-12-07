@@ -1,0 +1,12 @@
+C:\ckGitHubProjects\ChilkatVbNet2012\bin\Debug\ChilkatVbNet2012.exe.config
+C:\ckGitHubProjects\ChilkatVbNet2012\bin\Debug\ChilkatVbNet2012.exe
+C:\ckGitHubProjects\ChilkatVbNet2012\bin\Debug\ChilkatVbNet2012.pdb
+C:\ckGitHubProjects\ChilkatVbNet2012\bin\Debug\ChilkatVbNet2012.xml
+C:\ckGitHubProjects\ChilkatVbNet2012\bin\Debug\ChilkatDotNet45.dll
+C:\ckGitHubProjects\ChilkatVbNet2012\obj\Debug\ChilkatVbNet2012.vbprojResolveAssemblyReference.cache
+C:\ckGitHubProjects\ChilkatVbNet2012\obj\Debug\ChilkatVbNet2012.Form1.resources
+C:\ckGitHubProjects\ChilkatVbNet2012\obj\Debug\ChilkatVbNet2012.Resources.resources
+C:\ckGitHubProjects\ChilkatVbNet2012\obj\Debug\ChilkatVbNet2012.vbproj.GenerateResource.Cache
+C:\ckGitHubProjects\ChilkatVbNet2012\obj\Debug\ChilkatVbNet2012.exe
+C:\ckGitHubProjects\ChilkatVbNet2012\obj\Debug\ChilkatVbNet2012.xml
+C:\ckGitHubProjects\ChilkatVbNet2012\obj\Debug\ChilkatVbNet2012.pdb
